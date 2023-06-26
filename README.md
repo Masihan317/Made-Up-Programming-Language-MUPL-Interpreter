@@ -21,3 +21,9 @@ MUPL programs are written directly in Racket by using the constructors defined b
 
 ## More Details
 
+Some functionalities include converting a Racket list to a MUPL list and vice versa.
+A MUPL expression that follows the structures defined by the struct can be evaluated.
+Functions such as map/filter are implemented.
+
+Sample tests are included in MUPL Tests.rkt
+
